@@ -5,3 +5,4 @@ dash-bootstrap-components
 dash-html-components
 pandas
 plotly
+dash-daq
