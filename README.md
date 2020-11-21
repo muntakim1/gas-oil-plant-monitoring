@@ -1,2 +1,2 @@
 # gas-oil-plant-monitoring
-![image](Screenshot from 2020-11-21 23-12-05.png)
+![image](https://github.com/muntakim1/gas-oil-plant-monitoring/blob/main/Screenshot%20from%202020-11-21%2023-12-05.png)
